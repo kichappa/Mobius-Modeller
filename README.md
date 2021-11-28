@@ -16,3 +16,6 @@ This scrip generates, yes, a _wall_. The wall follows a sine curve along an arc 
 <p align="center">
   <img src="/M%C3%B6bius%20Modeller%20-%20Week%201.png" alt="Undulating walls with direction selective widths placed along a sine curve warped around an arc."/>
 </p>
+
+---
+©️ kichappa, 2021-22

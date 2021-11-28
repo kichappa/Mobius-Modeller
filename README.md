@@ -1,4 +1,3 @@
-# Möbius Modeller
 This is a repo of my work on the Möbius Modeller.
 
 ## Rotating Floor

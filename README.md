@@ -13,7 +13,7 @@ In this script, a _building_ with rotating and resizing floors is generated. The
 ## Undulating Wall
 This scrip generates, yes, a _wall_. The wall follows a sine curve along an arc of right angle. The wall also has direction selective thickness. You can see the [working demo](https://mobius-08.design-automation.net/dashboard?file=https:%2F%2Fmobius.ramdon.team%2FWeek1_Coding_Assignment.mob&defaultViewer=cad){:target="_blank"} here. 
 
-<iframe width='100%' height='600px' style='border: 1px solid black;' src="https://mobius-08.design-automation.net/dashboard?file=https:%2F%2Fmobius.ramdon.team%2Fw1_s3_u3_demo_law_curves_exp.mob&defaultViewer=cad"></iframe>
+<iframe width='100%' height='600px' style='border: 1px solid black;' src="https://mobius-08.design-automation.net/minimal?file=https:%2F%2Fmobius.ramdon.team%2Fw1_s3_u3_demo_law_curves_exp.mob&defaultViewer=cad"></iframe>
 
 More details:
 

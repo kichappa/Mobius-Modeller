@@ -27,7 +27,7 @@ More details:
   <img src="/M%C3%B6bius%20Modeller%20-%20Week%201.png" alt="Undulating walls with direction selective widths placed along a sine curve warped around an arc."/>
 </p>
 
-<iframe width='100%' height='600px' style='border: 1px solid black;' src="https://mobius-08.design-automation.net/minimal?file=https:%2F%2Fmobius.ramdon.team%2FWeek1_Coding_Assignment.mob&defaultViewer=cad"></iframe>asd
+<iframe width='100%' height='600px' style='border: 1px solid black;' src="https://mobius-08.design-automation.net/minimal?file=https:%2F%2Fmobius.ramdon.team%2FWeek1_Coding_Assignment.mob&defaultViewer=cad"></iframe>
 
 ---
 ©️ kichappa, 2021-22

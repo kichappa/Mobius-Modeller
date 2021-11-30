@@ -1,5 +1,5 @@
 # Hello there!
-Have a look at my works on the Möbius Modeller. This is my introduction to generative modelling, something that I am very much curious about. Ever wondered how designs can be made analytical to create a launch-pad for designers to rocket improvements on.
+Have a look at my works on the Möbius Modeller. This is my introduction to generative modelling, something that I am very much curious about. Ever wondered how designs can be made analytical to create a launch-pad for designers to rocket improvements on? _No?_ Well, I did!
 
 ## Rotating Floor
 

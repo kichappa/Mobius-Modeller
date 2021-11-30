@@ -29,5 +29,15 @@ More details:
 
 <iframe width='100%' height='600px' style='border: 1px solid black;' src="https://mobius-08.design-automation.net/minimal?file=https:%2F%2Fmobius.ramdon.team%2FWeek1_Coding_Assignment.mob&defaultViewer=cad"></iframe>
 
+
+## Arched Roofs of The Winter Gardens
+Catenarty arched roofs ftw! This script generates arched roofs that follow catenary curves. The structure is loosely based on The Winter Gardens pavilion in Sheffield. You can see the [working demo](https://mobius-08.design-automation.net/dashboard?file=https:%2F%2Fmobius.ramdon.team%2FArched_Roof_of_The_Winter_Gardens.mob&defaultViewer=cad){:target="_blank"} here. 
+
+<p align="center">
+  <img src="/M%C3%B6bius%20Modeller%20-%20Week%202.png" alt="Undulating walls with direction selective widths placed along a sine curve warped around an arc."/>
+</p>
+
+<iframe width='100%' height='600px' style='border: 1px solid black;' src="https://mobius-08.design-automation.net/minimal?file=https:%2F%2Fmobius.ramdon.team%2FArched_Roof_of_The_Winter_Gardens.mob&defaultViewer=cad"></iframe>
+
 ---
 ©️ kichappa, 2021-22

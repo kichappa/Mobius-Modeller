@@ -41,10 +41,14 @@ Catenary arched roofs ftw! This script generates arched roofs that follow catena
 
 
 # Wedding Cake Urbanism
-Buildings with '[wedding cake](https://en.wikipedia.org/wiki/Wedding-cake_style)' building typologies are generated using Voronoi subdivision of base land. The script comply sky-view cone-of-view requirements in urban city plannings regulations. As usual, the [working demo](https://mobius-08.design-automation.net/dashboard?file=https:%2F%2Fmobius.ramdon.team%2FWedding_Cake_Urbanism.mob&defaultViewer=cad){:target="_blank"} is attached. 
+Buildings with '[wedding cake](https://en.wikipedia.org/wiki/Wedding-cake_style)' building typologies are generated using Voronoi subdivision of base land. The script complies 
+- Sky-view cone-of-view requirements in urban city plannings regulations,
+- Maximum Gross Floor Area Ratio.
+ 
+ As usual, the [working demo](https://mobius-08.design-automation.net/dashboard?file=https:%2F%2Fmobius.ramdon.team%2FWedding_Cake_Urbanism.mob&defaultViewer=cad){:target="_blank"} is attached. 
 
 <p align="center">
-  <img src="/M%C3%B6bius%20Modeller%20-%20Week%203.png" alt="Urban Planning - Buildings that follow 'wedding-cake' typologies to comply with city regulations of sky-view cone-of-vision requirements."/>
+  <img src="/M%C3%B6bius%20Modeller%20-%20Week%203.png" alt="Urban Planning - Buildings that follow 'wedding-cake' typologies to complies with city regulations of sky-view cone-of-vision requirements."/>
 </p>
 
 <!-- <iframe width='100%' height='600px' style='border: 1px solid black;' src="https://mobius-08.design-automation.net/minimal?file=https:%2F%2Fmobius.ramdon.team%2FWedding_Cake_Urbanism.mob&defaultViewer=cad"></iframe> -->
